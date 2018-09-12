@@ -116,29 +116,4 @@ def user_input(prompt):
 
 #
 # secret_word = load_word()
-# spaceman(load_word())
 spaceman(load_word())
-
-
-# do a for loop that will print josh 5 times
-# for i in range(5):
-#     print('josh')
-#
-# yeer = ['sup','suwwwooop', 'blood', 'cuz', 'fam', 'icy', 'rocks', 'bag', 'billy']
-# # loop through the yeer array
-
-# for i in range(len(yeer)):
-#     print(yeer[i])
-
-# for i in yeer:
-#     print(i)
-
-
-#priht 0 to 100 in loop
-
-# for i in range(101):
-#     print(i)
-
-# for (int i = 0, i < 10, i++) {
-#
-# }
